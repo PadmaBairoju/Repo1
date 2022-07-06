@@ -1,0 +1,5 @@
+Type ssh-keygen command.
+Hit enter again and again until you get an image with SSH
+Get the ssh key code from newly created SSH folder and paste it in remote repos.
+
+Thank you!
