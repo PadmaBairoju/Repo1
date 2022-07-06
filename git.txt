@@ -1,1 +1,4 @@
-Welcom Git and Githubgit
+Welcom Git and Github.
+
+We are going to learn;
+Creating Repos and Branch.
